@@ -1,0 +1,6 @@
+C:\Users\Lou75\tiy\week-4\DotnetUnivesrity\DotnetUnivesrity\bin\Debug\DotnetUnivesrity.exe.config
+C:\Users\Lou75\tiy\week-4\DotnetUnivesrity\DotnetUnivesrity\bin\Debug\DotnetUnivesrity.exe
+C:\Users\Lou75\tiy\week-4\DotnetUnivesrity\DotnetUnivesrity\bin\Debug\DotnetUnivesrity.pdb
+C:\Users\Lou75\tiy\week-4\DotnetUnivesrity\DotnetUnivesrity\obj\Debug\DotnetUnivesrity.csprojResolveAssemblyReference.cache
+C:\Users\Lou75\tiy\week-4\DotnetUnivesrity\DotnetUnivesrity\obj\Debug\DotnetUnivesrity.exe
+C:\Users\Lou75\tiy\week-4\DotnetUnivesrity\DotnetUnivesrity\obj\Debug\DotnetUnivesrity.pdb
